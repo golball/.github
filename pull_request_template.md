@@ -5,7 +5,7 @@
 
 -->>Please delete options that are not relevant.
 ## Checklist
-- [ ] This change requires a documentation update
+- [ ] This change requires a documentation update. I have updated the docs (apidocs or repo docs).
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] I have hidden these changes behind a feature flag (indicates which one)
 
