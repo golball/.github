@@ -1,30 +1,23 @@
-# GolBall Pull Request
-## Description ✏ 
+# 🎉 Gol-Ball Pull Request 🎉
+## 🤔 Description 🚀
 
-<!-- Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change -->
+<!-- Summarize the changes & what issue they address. Include context, motivation, and any required dependencies. -->
 
-`This PR fixes/adds....`
-
-<!--Please delete options that are not relevant-->
-<!-- Add [x] to mark a check-->
-## Checklist ✅
-- [x] I'm a good guy
-- [ ] This change requires a documentation update. I have updated the docs (apidocs or repo docs).
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] I have hidden these changes behind a feature flag (indicates which one)
+`Yay! This PR is all about...`
 
 <!-- OPTIONAL -->
-## Screenshoots 📷
-<!-- Please add here screenshots of your changes. To do so, please add the files right here.-->
+## 📸 Snap, snap! Screenshots 📸
+<!-- Drag and drop those snazzy screenshots right here! -->
 
-- `Image 1: `
-- `Image 2: `
+- `Pic 1: 🌟`
+- `Pic 2: 💫`
 - `... `
 
 <!-- OPTIONAL -->
-## Links 📎
-<!-- Please add link to the Wrike task, XD, google doc, whatever -->
+## 🔗 Handy Dandy Links 🔗
+<!-- Share Trello tasks, Figma files, Google Docs, or other goodies. -->
 
-- `Link 1: `
-- `Link 2: `
+- `Link 1: 🌐`
+- `Link 2: 🎯`
 - `... `
+
